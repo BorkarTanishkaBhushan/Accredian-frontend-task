@@ -13,9 +13,9 @@ export default function Landing() {
     <>
     <Banner/>
     <NavBar/>
-    <MiddleRibbon/>
+    {/* <MiddleRibbon/> */}
     <HeroSection/>
-    <Section2/>
+    {/* <Section2/> */}
     <TableSection/>
     <Questions/>
     <CTA/>

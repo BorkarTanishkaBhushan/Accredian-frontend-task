@@ -8,7 +8,7 @@ export default function HeroSection() {
 
   return (
     <>
-        <div className='flex justify-between mt-10 bg-[#EEF5FF] mr-[13%] ml-[13%] rounded-3xl'>
+        <div className='flex justify-between mt-24 bg-[#EEF5FF] mr-[13%] ml-[13%] rounded-3xl'>
             <div className='text-left ml-10 mt-20'>
                 <div className='text-7xl font-bold'> 
                 Let’s Learn <br/>
